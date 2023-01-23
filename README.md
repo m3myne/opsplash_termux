@@ -24,6 +24,10 @@ git clone https://github.com/m3myne/opsplash_termux.git
 cd opsplash_termux
 ```
 ## Get a splash
+### need su
+```
+su
+```
 ```
 dd if=/dev/block/bootdevice/by-name/splash_a of=/storage/emulated/0/opsplash_termux/splash.img
 ```
