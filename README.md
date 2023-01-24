@@ -8,7 +8,7 @@ termux-setup-storage
 ``` 
 ### Install git 
 ```
-pkg update
+pkg upgrade
 ```
 ```
 pkg install git
