@@ -20,6 +20,9 @@ cd /storage/emulated/0
 ```
 git clone https://github.com/m3myne/opsplash_termux.git
 ```
+```
+chmod +x opsplash
+```
 ```./opsplash unpack -i splash.img -o pic
 cd opsplash_termux
 ```
